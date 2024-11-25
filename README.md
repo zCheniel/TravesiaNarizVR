@@ -1,3 +1,5 @@
+Experiencia Inmersiva para realizar un recorrido a traves de la nariz (Incleye sonidos, voz en off y animaciones)
+<br>
 Imagenes del proyecto:
 <br>
 ![dwqe](https://github.com/user-attachments/assets/22d05a3d-0cac-4f1a-bf25-77a0a47031e8)
